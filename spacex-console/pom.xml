@@ -19,6 +19,6 @@
         </dependency>
     </dependencies>
     <build>
-        <finalName>spacex-console</finalName>
+        <finalName>spacex</finalName>
     </build>
 </project>
