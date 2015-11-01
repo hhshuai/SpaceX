@@ -14,4 +14,5 @@
     <script src="/assets/js/jquery-2.1.4.js"></script>
     <!-- Bootstrap Core JavaScript -->
     <script src="/assets/js/bootstrap.js"></script>
+    <script src="/assets/js/butler.js"></script>
 </head>
