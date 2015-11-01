@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
   <artifact type="war" name="spacex-console:war">
     <output-path>$PROJECT_DIR$/spacex-console/target</output-path>
-    <root id="archive" name="spacex-console.war">
+    <root id="archive" name="spacex-console-1.0-SNAPSHOT.war">
       <element id="artifact" artifact-name="spacex-console:war exploded" />
     </root>
   </artifact>
