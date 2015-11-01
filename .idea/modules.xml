@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SpaceX.iml" filepath="$PROJECT_DIR$/SpaceX.iml" />
       <module fileurl="file://$PROJECT_DIR$/spacex-console/spacex-console.iml" filepath="$PROJECT_DIR$/spacex-console/spacex-console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spacex-parent.iml" filepath="$PROJECT_DIR$/spacex-parent.iml" />
     </modules>
   </component>
 </project>

@@ -25,6 +25,9 @@
         <module name="spacex-console" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spacex-console" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
 
