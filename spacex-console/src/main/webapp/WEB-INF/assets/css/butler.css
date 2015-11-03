@@ -2004,7 +2004,7 @@ a.sec_top_brand3:hover em {
 
 /* 效果图模块 */
 .index_zxxgt:after{clear:both; content: ""; display: table;}
-.index_module_header{height:34px;margin:60px 0 20px 0 ;}
+.index_module_header{height:24px;margin:30px 0 20px 0 ;}
 .index_module_header span{float:left; height:34px; font-size: 32px; color: #333; font-weight: 400; line-height: 34px}
 .index_module_header span a{color: #333}
 .index_module_header span a:hover{ color: #333}
@@ -2028,11 +2028,11 @@ a.sec_top_brand3:hover em {
 .index_xgt a.index_xgt_one p{left:20px; bottom:44px;  font-size: 24px;  width:430px;  height: 26px; line-height: 26px}
 .index_xgt a.index_xgt_one em{left:20px; bottom:23px; color:#999; width: 430px;overflow: hidden; text-overflow:ellipsis; white-space: nowrap;}
 .index_xgt a.index_xgt_two p{width: 430px}
-.index_xgt_gzxgt{width: 1220px; height: 140px; background: #f8f8f8; margin-top:20px;}
+.index_xgt_gzxgt{width: 1220px; height: 240px; background: #f8f8f8; margin-top:20px;}
 .index_xgt_gzxgt ul{margin-left:2px;}
 .index_xgt_gzxgt ul li{float:left; width: 152px; height:140px;}
 .index_xgt_gzxgt ul li a{ float:left; width: 152px; height: 140px ; text-align: center; color: #000}
-.index_xgt_gzxgt ul li a img{width: 80px; height: 80px; margin:20px auto 0;}
+.index_xgt_gzxgt ul li a img{width: 120px; height: 160px; margin:20px auto 0;}
 .index_xgt_gzxgt ul li a span{display: inline-block; height:14px; line-height: 14px; margin-top:10px; width: 152px}
 
 /*-------------- 装修攻略[[ ----------------*/
@@ -2482,7 +2482,7 @@ a.sec_top_brand3:hover em {
 .index_list_buy .sec1_div3 a {  color: #666; display: inline-block; vertical-align: middle;   width: 178px; text-overflow: ellipsis;  overflow: hidden;  white-space: nowrap; line-height: 20px; }
 .index_list_buy .sec1_div3 .f_song {  font-family: f_STSong,"宋体"; color: #b1b1b1;margin-left: 10px;}
 .index_list_buy .sec1_div3 a:hover,.sec1_div3 a:hover .f_song{  text-decoration: none;   color: #f25618;}
-.index_list_buy .content .sec3 li {  position: relative;  border: 1px dotted #eee;  border-left: 0;  border-top: 0;  float: left;  width: 238px;  padding: 0 20px 10px; }
+.index_list_buy .content .sec3 li {  position: relative;  border: 1px dotted #eee;  border-left: 0;  border-top: 0;  float: left;  width: 279px;  padding: 0 20px 10px; }
 .index_list_buy .content .sec3 img {  margin: 10px 43px; }
 .index_list_buy .content .sec3 p {  line-height: 14px;  margin-bottom: 10px; width: 238px;  text-overflow: ellipsis;  overflow: hidden;  white-space: nowrap; text-align: center;}
 .index_list_buy .content .sec3 p.f_c_e81a62{  line-height: 18px;  font-size: 16px;  margin-bottom: 6px;}
