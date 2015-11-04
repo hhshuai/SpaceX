@@ -4,7 +4,7 @@
   Date: 2015/11/1
   Time: 11:10
 -->
-<html>
+<html xmlns="http://www.w3.org/1999/html">
 <#include "control/header.ftl">
 <script type="text/javascript" src="/assets/js/jssor.slider.min.js"></script>
 <script>
@@ -367,42 +367,91 @@
         <ul>
             <li><a href="/headman/00001" target="_blank">
                 <img src="/assets/imgs/headman/h001.jpg" alt="孙乔伟" class="lazy" style="display: inline;">
-                <span>孙乔伟</span>
+
+                <div>
+                    <span>孙乔伟</span>
+
+                    <p class="fa fa-thumbs-up" title="好评度">99%</p>
+
+                    <p class="fa fa-database" title="累计接单">129384次</p>
+                </div>
             </a>
             </li>
             <li><a href="/headman/00002" target="_blank">
                 <img src="/assets/imgs/headman/h002.jpg" alt="张军" class="lazy" style="display: inline;">
-                <span>卧室</span>
+                <div>
+                    <span>张军</span>
+
+                    <p class="fa fa-thumbs-up" title="好评度">98%</p>
+
+                    <p class="fa fa-database" title="累计接单">59384次</p>
+                </div>
             </a>
             </li>
             <li><a href="/headman/00003" target="_blank">
                 <img src="/assets/imgs/headman/h003.jpg" alt="李燕飞" class="lazy" style="display: inline;">
-                <span>餐厅</span>
+                <div>
+                    <span>李燕飞</span>
+
+                    <p class="fa fa-thumbs-up" title="好评度">97%</p>
+
+                    <p class="fa fa-database" title="累计接单">9384次</p>
+                </div>
             </a>
             </li>
             <li><a href="/headman/00004">
                 <img src="/assets/imgs/headman/h004.jpg" alt="郭鹏军" class="lazy" style="display: inline;">
-                <span>厨房</span>
+                <div>
+                    <span>孙乔伟</span>
+
+                    <p class="fa fa-thumbs-up" title="好评度">96%</p>
+
+                    <p class="fa fa-database" title="累计接单">129384次</p>
+                </div>
             </a>
             </li>
             <li><a href="/headman/00005" target="_blank">
                 <img src="/assets/imgs/headman/h005.jpg" alt="夏长林" class="lazy" style="display: inline;">
-                <span>卫生间</span>
+                <div>
+                    <span>夏长林</span>
+
+                    <p class="fa fa-thumbs-up" title="好评度">99%</p>
+
+                    <p class="fa fa-database" title="累计接单">39184次</p>
+                </div>
             </a>
             </li>
             <li><a href="/headman/00006" target="_blank">
                 <img src="/assets/imgs/headman/h006.jpg" alt="姜必忠" class="lazy" style="display: inline;">
-                <span>阳台</span>
+                <div>
+                    <span>姜必忠</span>
+
+                    <p class="fa fa-thumbs-up" title="好评度">99%</p>
+
+                    <p class="fa fa-database" title="累计接单">29384次</p>
+                </div>
             </a>
             </li>
             <li><a href="http://xiaoguotu.to8to.com/list-h6s336i0" target="_blank">
                 <img src="assets/imgs/headman/h007.jpg" alt="董必山" class="lazy" style="display: inline;">
-                <span>背景墙</span>
+                <div>
+                    <span>董必山</span>
+
+                    <p class="fa fa-thumbs-up" title="好评度">92%</p>
+
+                    <p class="fa fa-database" title="累计接单">12934次</p>
+                </div>
             </a>
             </li>
             <li><a href="http://xiaoguotu.to8to.com/list-h6s16i0" target="_blank">
                 <img src="assets/imgs/headman/h008.jpg" alt="胡勇" class="lazy" style="display: inline;">
-                <span>吊顶</span>
+                <div>
+                    <span>胡勇</span>
+
+                    <p class="fa fa-thumbs-up" title="好评度">91%</p>
+
+                    <p class="fa fa-database" title="累计接单">19384次</p>
+                </div>
             </a>
             </li>
         </ul>
